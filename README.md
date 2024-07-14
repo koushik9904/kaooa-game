@@ -1,5 +1,5 @@
 # Kaooa:
-## To Run:
+## To Run
 - change your directory to the directory containing the game file
 - Run python3 file_name.py
 ## How to play  
